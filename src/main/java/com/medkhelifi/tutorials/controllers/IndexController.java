@@ -10,6 +10,6 @@ public class IndexController {
 
     @RequestMapping(value = "" )
     public String index (){
-        return "Hello spring webmvc annotation config";
+        return "Hello spring webmvc annotation config 2";
     }
 }
